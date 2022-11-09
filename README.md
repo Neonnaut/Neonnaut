@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Neonnaut</h1>
-<h3 align="center">A developer of some kind</h3>
+# Hi 👋, I'm Neonnaut
 
-<h3 align="left">Languages and Tools:</h3>
+#### A developer of some kind
+
+<div style="display: flex; flex-wrap: wrap;">
+  <a alt="Neonnaut's GitHub Stats" style="margin: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neonnaut&show_icons=true&theme=dark&locale=en" alt="Neonnaut" />
+  </a>
+  <a alt="Neonnaut's Programming Languages" style="margin: 5px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neonnaut&layout=compact&langs_count=8&border_color=fff&border_radius=5&bg_color=151515&title_color=fff&text_color=D8C787" />
+  </a>
+</div>
+
+### Languages and Tools:
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -15,10 +26,4 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neonnaut&show_icons=true&theme=dark&locale=en" alt="Neonnaut" />
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787" />
 </p>
