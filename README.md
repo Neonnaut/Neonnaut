@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <a alt="Neonnaut's GitHub Stats" style="margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Neonnaut&show_icons=true&theme=dark&locale=en" alt="Neonnaut" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Neonnaut&show_icons=true&theme=dark&locale=en" alt="Neonnaut" style="max-height: 164px;"/>
   </a>
   <a alt="Neonnaut's Programming Languages" style="margin: 5px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neonnaut&layout=compact&langs_count=8&border_color=fff&border_radius=5&bg_color=151515&title_color=fff&text_color=D8C787" />
