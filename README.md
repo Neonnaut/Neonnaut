@@ -3,7 +3,7 @@
 #### A developer of some kind
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a alt="Neonnaut's GitHub Stats" style="margin: 5px;">
+  <a alt="Neonnaut's GitHub Stats" style="margin: 5px; max-height: 164px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Neonnaut&show_icons=true&theme=dark&locale=en" alt="Neonnaut" style="max-height: 164px;"/>
   </a>
   <a alt="Neonnaut's Programming Languages" style="margin: 5px;">
